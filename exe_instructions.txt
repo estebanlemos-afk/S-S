@@ -1,0 +1,5 @@
+1. convert_dataset.m   → convierte los audios a imágenes MFCC
+2. make_CNN.m          → define la arquitectura de la red
+3. training.m          → entrena y guarda redCalculadora.mat
+4. confusion.m         → muestra la matriz de confusión
+5. testing.m           → prueba en tiempo real hablando
